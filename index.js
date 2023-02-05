@@ -1,0 +1,36 @@
+
+let declaredVariable;
+let someData = 99;
+let obj = {age: 33};
+
+console.log(typeof 37);
+console.log(typeof obj);
+console.log(typeof someData + " Wisen");
+console.log(typeof true);
+console.log(typeof 3.14);
+console.log(typeof obj.name);
+console.log(typeof 42);
+console.log(typeof "");
+console.log(typeof "bla");
+console.log(typeof Boolean(1));
+console.log(typeof !!1);
+console.log(typeof obj.age);
+console.log(typeof Infinity);
+console.log(typeof NaN); 
+console.log(typeof (someData + " Wisen"));
+console.log(typeof Number("1"));
+console.log(typeof Number("shoe"));
+console.log(typeof `template literal`);
+console.log(typeof "1"); 
+console.log(typeof typeof 1); 
+console.log(typeof false);
+console.log(typeof String(1));
+console.log(typeof undefined);
+console.log(typeof { a: 1 });
+console.log(typeof declaredVariable);
+console.log(typeof [1, 2, 4]);
+console.log(typeof null);
+console.log(typeof "John");
+console.log(typeof [] + '1');
+console.log(typeof 1 + '1');
+console.log(typeof 10 * '2');

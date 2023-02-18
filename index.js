@@ -5,7 +5,7 @@ let obj = {age: 33};
 
 console.log(typeof 37);                    //number
 console.log(typeof obj);                   //object
-console.log(typeof someData + " Wisen");   //number 
+console.log(typeof someData + " Wisen");   //string 
 console.log(typeof true);                  //boolean
 console.log(typeof 3.14);                  //number
 console.log(typeof obj.name);              //undefined  
@@ -30,6 +30,6 @@ console.log(typeof declaredVariable);      //undefined
 console.log(typeof [1, 2, 4]);             //object
 console.log(typeof null);                  //object 
 console.log(typeof "John");                //string
-console.log(typeof [] + '1');              //object
-console.log(typeof 1 + '1');               //number
+console.log(typeof [] + '1');              //object1
+console.log(typeof 1 + '1');               //number1
 console.log(typeof 10 * '2');              //number 

@@ -30,6 +30,6 @@ console.log(typeof declaredVariable);      //undefined
 console.log(typeof [1, 2, 4]);             //object
 console.log(typeof null);                  //object 
 console.log(typeof "John");                //string
-console.log(typeof [] + '1');              //object1
-console.log(typeof 1 + '1');               //number1
+console.log(typeof [] + '1');              //string
+console.log(typeof 1 + '1');               //string
 console.log(typeof 10 * '2');              //number 
